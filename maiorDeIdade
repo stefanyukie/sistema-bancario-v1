@@ -1,8 +1,0 @@
-nome = input("Qual o meu nome?")
-
-mensagem = f"""
-Olá, meu nome é {nome},
-e estou usando Python.
-"""
-
-print(mensagem)
